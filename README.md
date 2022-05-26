@@ -15,7 +15,7 @@ Currently at Form3 I am focusing on building out the:
 
 **[Information Security Officers](https://github.com/form3tech-oss/infosec-candidate-pack/blob/master/roles/iso.md)** squad. 
 
-If you would like to hear more about any of the above please reach out!
+If you would like to hear more about any of the above please reach out, or chek 
 
 
 
