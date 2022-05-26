@@ -7,8 +7,11 @@ My name is Matt, I am a Talent Aqusition Partner at **[Form3](https://www.form3.
 I also have a huge passion for all things Security but more specifically; Application Security, Cloud Security, Cryptography and Threat Intelligence. 
 ___
 
-My favourite tools and technologies are: 
+Some of my favourite tools and technologies are: 
 
+![image](https://user-images.githubusercontent.com/83697435/170534238-f4e85337-e7c2-4fa6-8ac6-e8c5300b175a.png)
+
+Any info or tips you have regarding them please share! 
 ___
 
 Currently within Form3 I am focused on growing out the following teams:
