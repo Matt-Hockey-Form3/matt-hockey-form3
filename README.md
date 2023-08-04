@@ -2,9 +2,9 @@
 
 ___
 
-My name is Matt, I am a Talent Aqusition Partner at **[Form3](https://www.form3.tech/)** specialising in Cyber Security. 
+My name is Matt, I work at **[Form3](https://www.form3.tech/)** specialising in Cyber Security. 
 
-I also have a huge passion for all things Security but more specifically; Application Security, Cloud Security, Cryptography and Threat Intelligence. 
+I also have a huge passion for all things Security but more specifically; Vulnerability Management, Application Security, Cloud Security, Cryptography and Threat Intelligence. 
 ___
 
 Some of my favourite tools and technologies are: 
